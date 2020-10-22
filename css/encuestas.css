@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/04/2019, 07:04:16 PM
+    Author     : MoisésUlises
+*/
+body{
+    background-color: #0288d1;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+.container{
+    background-color: white;
+    padding: 35px;
+    border-style: solid;
+    border-width: 2px 5px 5px 2px;;
+    border-color: silver;
+}
+
+.description{
+    font-size: 14pt;
+}
+.instructions{
+    font-size: 12pt;
+}
+.pregunta{
+    font-size: 11pt;
+    padding-left: 30px;
+}
+.pregunta p{
+    font-weight: bold;
+}
+
+.pregunta input{
+    padding-left: 20px;
+}
+.btn-big{
+    padding: 30px;
+}
+.jumbotron{
+    color: white;
+    background-color: #101010;
+}
+.jumbotron p{
+    color: white;
+}
+.calif{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.des-container{
+    background-color: #0288d1;
+    border-width: 0px;
+    padding: 0px;
+}
